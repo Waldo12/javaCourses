@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class lesson3 {
 
-    public static void main(String[] a6rgs)
+    public static void main(String[] args)
     {
         //  Завдання 1: Создать массив integers, и с помощью класса scanner определить его размер,
         // например - int [] array = new int [ ' тут должно быть число со сканнера'],
